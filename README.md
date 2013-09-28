@@ -1,4 +1,18 @@
 Foundations-of-Computer-Science
 ===============================
 
-The Foundations of Computer Science XSeries, offered by the M.I.T. Department of Electrical Engineering and Computer Science, is a sequence of courses that introduce key concepts of computer science and computational thinking. Students apply these concepts and build their engineering skills by completing software and hardware design problems. Additionally, students test their understanding by taking a series of exams.
+This XSeries consists of 7 courses:
+
+6X.1 Introduction to Computer Science and Programming in Python | Fall 2013
+
+6X.2 Introduction to Computational Thinking and Data Science | Spring 2014
+
+6X.3 Software Construction in Java 1 | Fall 2014
+
+6X.4 Software Construction in Java 2 | Spring 2015
+
+6X.5 Computation Structures: Digital Circuits | Fall 2014
+
+6X.6 Computation Structures: Programmable Architectures | Spring 2015
+
+6X.7 Computation Structures: Computer Systems Organization | Fall 2015
