@@ -1,0 +1,11 @@
+PROBLEM 8-3  (5.0/5.0 points)
+Here is the second:
+
+def babylon(a):
+    def test(x):
+        return 0.5 * ((a / x) + x)
+    return test
+
+def sqrt(a):
+    return fixedPoint(babylon, 0.0001)
+This code has a bug in it. You can fix this by correcting exactly one line of the definition. Please do so in the box below.

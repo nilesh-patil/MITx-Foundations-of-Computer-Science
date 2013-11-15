@@ -1,0 +1,10 @@
+PROBLEM 8-2  (5 points possible)
+Assuming you have corrected the implementation of the fixedPoint function, we can use it to compute other useful things such as square roots. In particular, the square root of a number, a, is the fixed point of the function f(x)=12(a/x+x).
+
+The next two questions define two different implementations of this idea. Each has one incorrect line of code. The first is below:
+
+def sqrt(a):
+    def tryit(x):
+        return 0.5 * (a/x + x)
+    return fixedPoint(tryit(a), 0.0001)
+This code has a bug in it. You can fix this by correcting exactly one line of the definition. Please do so in the box below.

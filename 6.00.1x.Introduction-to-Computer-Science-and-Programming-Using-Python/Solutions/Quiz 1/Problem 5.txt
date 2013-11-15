@@ -1,0 +1,6 @@
+PROBLEM 5  (10.0/10.0 points).txt
+Suppose you are given two strings (they may be empty), s1 and s2. You would like to "lace" these strings together, by successively alternating elements of each string (starting with the first character of s1). If one string is longer than the other, then the remaining elements of the longer string should simply be added at the end of the new string. For example, if we lace 'abcd' and 'efghi', we would get the new string: 'aebfcgdhi'.
+
+Write an iterative procedure, called laceStrings(s1, s2) that does this.
+
+Note: Part of what we are testing on this exam is your ability to write comprehensive test suites for your own functions. Thus, we are only providing the specification for the problem and we will not be showing you test case outputs. You will be able to check your code in the following box for syntax errors; once your code runs without syntax errors on our server, your grade will be recorded. So be sure to thoroughly test your function before pasting it here. You will only get ten checks to correct syntax errors. Use these judiciously; we regret that we are unable to give you more than 10 checks.
