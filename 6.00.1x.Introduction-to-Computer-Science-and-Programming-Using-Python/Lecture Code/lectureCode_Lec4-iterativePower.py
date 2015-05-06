@@ -20,8 +20,3 @@ def iterativePower(x,p):
         print ('iteration: ' + str(turn) + ' current result: ' + str(result))
         result = result * x
     return result
-
-
-
-        
-
